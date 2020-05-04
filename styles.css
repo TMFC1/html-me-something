@@ -1,0 +1,19 @@
+p {
+    margin: 50px;
+    padding: 25px;
+}
+.backcolor {
+    background-color: black;
+}
+#fc1 {
+    text-align: center;
+    color: orangered;
+}
+#fc2 {
+    text-align: center;
+    color: floralwhite;
+}
+#fc3 {
+    text-align: center;
+    color: royalblue;
+}
