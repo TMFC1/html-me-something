@@ -1,6 +1,7 @@
 p {
     margin: 50px;
     padding: 25px;
+    font-size: x-large;
 }
 .backcolor {
     background-color: black;
@@ -16,4 +17,15 @@ p {
 #fc3 {
     text-align: center;
     color: royalblue;
+}
+.Phoebepic {
+    transform: rotate(90deg);
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 25px;
+}
+h1 {
+    font-size: 350%;
 }
